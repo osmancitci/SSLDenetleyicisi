@@ -1,4 +1,4 @@
-<!--<div class='alert alert-info' role='alert'>
+<div class='alert alert-info' role='alert'>
 <h3>Test</h3>
 Bu Bir Test Mesajıdır.
-</div>-->
+</div>
