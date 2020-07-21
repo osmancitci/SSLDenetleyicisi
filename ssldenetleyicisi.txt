@@ -1,6 +1,6 @@
           <li class='menu-item'>
             <a class='menu-link' href='#'>
-              <span class='icon fa fa-info'></span>
+              <span class='icon fa fa-gift'></span>
               <span class='title'>Test</span>
             </a>
           </li>
